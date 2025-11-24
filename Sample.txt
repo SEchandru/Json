@@ -5,3 +5,5 @@ Buy groceries, 25 Nov 2025 20:00
 Call client, 26 Nov 2025 10:00
 
 Workout, 27 Nov 2025 07:00
+
+Pay bills, 28 Nav 2025 12:00
