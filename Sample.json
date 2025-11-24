@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "name": "Finish ESP32 projeft",
+      "deadline": "24 Nov 2025 18:00"
+    },
+    {
+      "name": "Buy groceries",
+      "deadline": "25 Nov 2025 20:00"
+    },
+    {
+      "name": "Call client",
+      "deadline": "26 Nov 2025 10:00"
+    }
+  ]
+}
