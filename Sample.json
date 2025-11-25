@@ -9,8 +9,12 @@
       "deadline": "25 Nov 2025 20:00"
     },
     {
-      "name": "Buy groceries",
-      "deadline": "25 Nov 2025 20:00"
+      "name": "Client Call",
+      "deadline": "26 Nov 2025 15:00"
+    },
+    {
+      "name": "Board meeting",
+      "deadline":"27 Nov 2025 2:00"
     }
   ]
 }
